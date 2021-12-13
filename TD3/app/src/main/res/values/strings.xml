@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="text_lance_de_de">Lancer de dé</string>
+    <string name="affichage"></string>
+    <string name="affichage2"></string>
+    <string name="affichage_nb_face_du_de">Nbre de face des dés?</string>
+    <string name="saisie_face_de">Saisie nbre face des dés</string>
+</resources>
